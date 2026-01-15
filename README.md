@@ -19,7 +19,7 @@ Hi, I'm **Taimoo-r** 👋 — a passionate **Software Engineer** and **Full-Stac
 ✨ I love exploring how things work under the hood.  
 🚀 Skilled in **MERN Stack, C++, TailwindCSS, and modern web technologies**.  
 🎯 Strong focus on **problem-solving**, **system design**, and **performance optimization**.  
-📚 Currently pursuing **Computer Science (3rd Semester)** and growing every day.  
+📚 Currently pursuing **Computer Science (6th Semester)** and growing every day.  
 🌱 Always learning — exploring **Supabase, Cloud Computing, and Compiler Design**.  
 ☕ Fueled by coffee & curiosity.  
 
