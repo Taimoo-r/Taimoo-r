@@ -14,7 +14,7 @@
 
 # 👨‍💻 **About Me**  
 
-Hi, I'm **Taimoo-r** 👋 — a passionate **Software Engineer** and **Full-Stack Developer**.  
+Hi, I'm **Taimoor** 👋 — a passionate **Software Engineer** and **Full-Stack Developer**.  
 
 ✨ I love exploring how things work under the hood.  
 🚀 Skilled in **MERN Stack, C++, TailwindCSS, and modern web technologies**.  
