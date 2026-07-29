@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/f076b89b-0762-4591-8dde-dc85c312e7cc" align="right" width="35%" height="180vh" alt="Illustration" />
+<img src="https://github.com/user-attachments/assets/f076b89b-0762-4591-8dde-dc85c312e7cc" align="right" width="35%" height="190vh" alt="Illustration" />
 
 - 🌱 Currently contributing to **[Apicurio Registry](https://github.com/Apicurio/apicurio-registry)**.<br>
 
