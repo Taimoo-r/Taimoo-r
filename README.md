@@ -1,82 +1,100 @@
-# Hey! I'm Muhammad Taimoor  
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/74994462-03ad-42ce-abfb-44421a5430e8" alt="Taimoor — Full-Stack Engineer · AI/LLM · Distributed Systems · OSS" width="100%" />
+
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things!" alt="Typing SVG" />
+
+# 𝗛𝗶, 𝗜'𝗺 𝗧𝗮𝗶𝗺𝗼𝗼𝗿
+
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔 • 𝑨𝑰/𝑳𝑳𝑴 • 𝑫𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑺𝒚𝒔𝒕𝒆𝒎𝒔
+
+<br/>
+
 </div>
+
+<img src="https://github.com/user-attachments/assets/f076b89b-0762-4591-8dde-dc85c312e7cc" align="right" width="35%" height="200vh" alt="Illustration" />
+
+- 🌱 Currently contributing to **[Apicurio Registry](https://github.com/Apicurio/apicurio-registry)**.<br>
+
+- 🏗️ Exploring distributed systems, scalable architectures, and production-grade software.<br>
+
+- 🎯 Preparing for the Linux Foundation LFX Mentorship through active open-source contributions.<br>
+
+- 🧑‍💻 Explore all my projects on **[taimoor.tech](https://taimoor.tech)**.
+
+<br clear="both"/>
+
+## Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,py,html,ts,js,bash,rust,go" />
+</p>
+
+
+## Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,express,react,tailwind" />
+</p>
+
+## Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,mysql,redis" />
+</p>
+
+## Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,linux,aws,vscode" />
+</p>
+
+<br>
+
+### 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/>
-  <img src="https://komarev.com/ghpvc/?username=Taimoo-r&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Taimoo-r?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taimoo-r&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution activity graph" width="100%" />
 </div>
 
----
+<br/>
 
-# 👨‍💻 **About Me**  
+### 𝗪𝗿𝗶𝘁𝗶𝗻𝗴
 
-Hi, I'm **Taimoor** 👋 — a passionate **Software Engineer** and **Full-Stack Developer**.  
+> *"Learn. Build. Break. Document. Repeat."*
 
-✨ I love exploring how things work under the hood.  
-🚀 Skilled in **MERN Stack, C++, TailwindCSS, and modern web technologies**.  
-🎯 Strong focus on **problem-solving**, **system design**, and **performance optimization**.  
-📚 Currently pursuing **Computer Science (6th Semester)** and growing every day.  
-🌱 Always learning — exploring **Supabase, Cloud Computing, and Compiler Design**.  
-☕ Fueled by coffee & curiosity.  
+I enjoy turning complex engineering topics into practical articles—from AI/LLMs and distributed systems to backend architecture, cloud-native technologies, and open-source experiences.
 
----
+<p align="center">
+  <a href="https://medium.com/@mailme.taimoor" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
-## 🤝 **Let's Connect & Collaborate**  
-
-<div align="center">  
-  <p>  
-    <a href="https://github.com/Taimoo-r" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </a>  
-    <a href="http://www.instagram.com/taimoor_r" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="32" height="32" /> </a>  
-    <a href="https://www.linkedin.com/in/taimoor-ijaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /> </a>  
-    <a href="http://www.medium.com/@taimoor" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /> </a>  
-    <a href="https://www.x.com/taimoor" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" /> </a>  
-    <a href="https://www.youtube.com/@taimoor" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" width="32" height="32" /> </a>  
-    <a href="https://www.threads.net/@taimoor" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" width="32" height="32" /> </a>  
-  </p>  
-</div>  
+<br/>
 
 ---
 
-## 🛠️ **Tech Arsenal**  
+### 𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
 
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,tailwind,bootstrap,nodejs,express,graphql,mongodb,postgres,firebase,git,vscode,docker,aws,gcp,figma,linux,rust,mysql&perline=12" />  
-  <br/>  
-  <img src="https://img.shields.io/badge/Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Vendure-6366F1?style=for-the-badge&logo=v&logoColor=white" />  
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Bolt.new-FF6B6B?style=for-the-badge&logo=bolt&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Replit_AI-667881?style=for-the-badge&logo=replit&logoColor=white" />  
-</div>  
+Always happy to connect with developers, open-source contributors, and people building interesting things.
 
----
+<p align="center">
 
-## 📊 **GitHub Analytics**  
+<a href="https://github.com/Taimoo-r" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
+</a>
 
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taimoo-r&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />  
-</div>  
+<a href="https://www.linkedin.com/in/taimoor-ijaz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
 
----
+<a href="mailto:mailme.taimoor@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
-## 🏆 **Achievements & Stats**  
+<a href="https://www.instagram.com/taimoor__z" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
 
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=Taimoo-r&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>  
-</div>  
-
----
-
-<div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />  
-
-  <strong>“The more I learn, the more I realize how much I don’t know.” – Albert Einstein</strong>  
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!" alt="Footer Typing"/>  
-</div>
+</p>
