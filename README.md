@@ -12,6 +12,8 @@
 
 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔 • 𝑨𝑰/𝑳𝑳𝑴 • 𝑫𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑺𝒚𝒔𝒕𝒆𝒎𝒔
 
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FTaimoo-r&style=plastic)](https://rankistan.dev/#Taimoo-r)
+
 <br/>
 
 </div>
