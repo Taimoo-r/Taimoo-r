@@ -33,7 +33,7 @@ skills.
 ## Open source
 
 | Project | Work |
-|---|---|
+|:---:|---|
 | [Apicurio Registry](https://github.com/Apicurio/apicurio-registry) | [#9035](https://github.com/Apicurio/apicurio-registry/pull/9035), [#8740](https://github.com/Apicurio/apicurio-registry/pull/8740) and [#9335](https://github.com/Apicurio/apicurio-registry/pull/9335) merged. Split the operator CSV RBAC into namespace and cluster tiers, added a single-namespace least-privilege install variant, and derived readable descriptions for JSON compatibility diffs. Also a CloudEvents [webhook delivery engine](https://github.com/Taimoo-r/apicurio-registry/tree/lfx/webhook-delivery-slice) with at-least-once delivery and the retry schedule kept in PostgreSQL, so a delivery survives `docker kill` mid-backoff ([recorded run](https://youtu.be/Tn4-edB67D0)) |
 | [Cognee](https://github.com/topoteretes/cognee-rs) | [#24](https://github.com/topoteretes/cognee-rs/pull/24), [#35](https://github.com/topoteretes/cognee-rs/pull/35) and [#36](https://github.com/topoteretes/cognee-rs/pull/36) merged. Removed two N+1 query loops, wrapped bulk provenance writes in a single transaction, and consolidated redundant queries in the vector and graph paths. Rust |
 | [Limitador](https://github.com/Kuadrant/limitador) | [#501](https://github.com/Kuadrant/limitador/pull/501) open. Replaced `.unwrap()` calls with descriptive `.expect()` messages so panics say what actually failed. Rust |
@@ -43,8 +43,9 @@ skills.
 ## Curated work
 
 | Project | What it is |
-|---|---|
+|:---:|---|
 | [topfived.com](https://topfived.com) | Real-time group challenges, voting and leaderboards. React and Supabase, 56 relational tables with Edge Functions and cron jobs handling the background work. Shipped for a US client in 2.5 months |
+| [GitTix](https://github.com/Taimoo-r/ticketing-microservice-app) | Ticket marketplace as six services on Kubernetes over a NATS Streaming event bus. Reservations expire after 15 minutes through a delayed Bull job, out-of-order events are handled with per-document version numbers, and each service ships independently through path-filtered GitHub Actions. TypeScript, Docker, MongoDB, Redis, Stripe |
 | [LMS](https://tlearning.vercel.app/) | Course platform with student enrollment, instructor tools and admin access. Next.js, secure API routes and dynamic course management |
 | [Multivendor marketplace](https://github.com/Taimoo-r/Multivendor-ecommerce-application) | Role-based access with separate dashboards for admins, vendors and customers. MERN, JWT, Cloudinary |
 
@@ -74,4 +75,4 @@ CP Lead at GDGoC. ICPC onsite participant. 330+ problems solved on LeetCode.
 
 🗄️ **Data** — PostgreSQL, MySQL, MongoDB, SQL Server, H2
 
-☁️ **Infra** — Docker, AWS (EC2, S3), CI/CD, Linux, Supabase
+☁️ **Infra** — Docker, Kubernetes, AWS (EC2, S3), CI/CD, Linux, Supabase
