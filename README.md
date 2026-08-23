@@ -3,10 +3,11 @@
 <img src="https://github.com/user-attachments/assets/74994462-03ad-42ce-abfb-44421a5430e8" alt="Taimoor — Full-Stack Engineer · AI/LLM · Distributed Systems · OSS" width="100%" />
 
 </div>
-
-<h1 align="center">Muhammad Taimoor</h1>
-
-<p align="center"><b>Full Stack · distributed systems · AI/ML pipelines</b></p>
+<h1 align="center">
+  Muhammad Taimoor
+  <br>
+  <sub>Full Stack · distributed systems · AI/ML pipelines</sub>
+</h1>
 
 I build products through deep problem solving, and ship 10x faster by pairing AI with my own
 judgement. My expertise is rooted in system design, distributed systems and AI/ML pipelines. Open
@@ -66,7 +67,11 @@ CP Lead at GDGoC. ICPC onsite participant. 330+ problems solved on LeetCode.
 ## Stack
 
 💻 **Languages** — JavaScript, TypeScript, Java, Rust, C++, Python
+
 🌐 **Web** — React, Next.js, Node.js, Express, React Native, REST APIs
+
 🧠 **AI and LLM** — LangChain, LangGraph, RAG, embeddings, vector databases (Chroma, Pinecone)
+
 🗄️ **Data** — PostgreSQL, MySQL, MongoDB, SQL Server, H2
+
 ☁️ **Infra** — Docker, AWS (EC2, S3), CI/CD, Linux, Supabase
