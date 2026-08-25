@@ -63,7 +63,7 @@ community of more than 20,000 developers and mentoring 500+ students, most of th
 Live sessions from [general engineering](https://youtu.be/9mEl4venemE) to
 [competitive programming](https://www.youtube.com/live/EgiSU7HGves).
 
-CP Lead at GDGoC. ICPC onsite participant. 330+ problems solved on LeetCode.
+CP Lead at GDGoC. ICPC onsite participant. 330+ problems solved on [LeetCode](https://leetcode.com/u/TAIMOOR_IJAZ/).
 
 ## Stack
 
